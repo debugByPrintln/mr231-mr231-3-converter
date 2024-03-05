@@ -1,4 +1,3 @@
-import javafx.scene.chart.ScatterChart;
 import org.example.searadar.mr231_3.convert.Mr231_3Converter;
 import org.example.searadar.mr231_3.station.Mr231_3StationType;
 import org.junit.jupiter.api.Test;
